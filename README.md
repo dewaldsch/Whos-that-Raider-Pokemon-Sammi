@@ -3,6 +3,9 @@ Mkae sure that you have the font and video downloaded
 Install the font
 import the video
 
+here are both fonts that U will need
+https://www.dafont.com/pokemon.font
+
 ADD THE FOLLOWING
 1 browser source
 2 Text GDI in OBS
